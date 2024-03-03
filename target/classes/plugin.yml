@@ -1,0 +1,4 @@
+name: NMSExample
+version: '1.0'
+main: dev.potato.nmsexample.NMSExample
+api-version: '1.20'
